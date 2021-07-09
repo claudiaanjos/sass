@@ -1,4 +1,4 @@
-# Bootstrap
+# Sass
 
 ### Projeto desenvolvido para o curso de *Sass: O CSS com superpoderes* da instrutora Gabriela Vaz (Alura).
 
