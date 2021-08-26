@@ -14,16 +14,10 @@ Os objetivos do curso são:
 - Implementar funções e lógica na estilização do site;
 - Tornar o site responsivo de maneira simples e reutilizável.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download/)
-- [Sass](https://sass-lang.com/install)
-
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Sass](https://sass-lang.com/install)
 
 &nbsp;
